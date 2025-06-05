@@ -1,5 +1,5 @@
 # Experiment 3: DML Commands
-### Name: KRISHNA S
+### NAME: KRISHNA S
 ### REG NO: 212222060124
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
